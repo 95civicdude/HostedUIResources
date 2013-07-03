@@ -68,5 +68,49 @@
                 <Featured>false</Featured>
             </Review>
         </Reviews>
+        <Questions>
+            <Question id="20">
+                <QuestionSummary>Is this really a good product?</QuestionSummary>
+                <UserProfileReference id="mike123">
+                    <ExternalId>mike123</ExternalId>
+                    <DisplayName>Mike</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <UserLocation>Dallas, TX</UserLocation>
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <SubmissionTime>2012-08-13T12:59:49.000+00:00</SubmissionTime>
+                <Answers>
+                    <Answer id="30">
+                        <AnswerText>Unfortunately without a model number we cannot accurately reply to your inquiry.</AnswerText>
+                        <UserNickname>AGreatUser</UserNickname>
+                        <UserLocation>Dayton, OH</UserLocation>
+                        <ModerationStatus>APPROVED</ModerationStatus>
+                        <SubmissionTime>2012-08-16T12:50:47.000+00:00</SubmissionTime>
+                    </Answer>
+                </Answers>
+            </Question>
+            <Question id="21">
+                <QuestionSummary>How much is this product?</QuestionSummary>
+                <UserProfileReference id="murray12">
+                    <ExternalId>murray12</ExternalId>
+                    <DisplayName>Murray</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>true</HyperlinkingEnabled>
+                </UserProfileReference>
+                <UserLocation>Palmdale, CA</UserLocation>
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <SubmissionTime>2011-12-20T12:33:38.000+00:00</SubmissionTime>
+                <Answers>
+                    <Answer id="31">
+                      <AnswerText>You can call us at 1-800-000-0000, prompts 1 and 1 and one of our reps will be happy to assist you.</AnswerText>
+                      <UserNickname>CustomerService</UserNickname>
+                      <UserLocation>New York, NY</UserLocation>>
+                      <ModerationStatus>APPROVED</ModerationStatus>
+                      <SubmissionTime>2012-04-15T12:18:00.000+00:00</SubmissionTime>
+                    </Answer>
+                </Answers>
+            </Question>
+        </Questions>
     </Product>
 </Feed>
